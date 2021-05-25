@@ -1,2 +1,2 @@
 # CoWIN-ChatBot
-A chatbot to book a slot for vaccine doses of COVID-19 using socket programming in python.
+A chatbot to demonstrate the slot booking procedure for vaccine doses of COVID-19 using socket programming in python.
